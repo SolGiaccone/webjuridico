@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #009961;
+  color: #192640;
 }
 
 a:hover {
@@ -762,6 +762,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    border-radius: 2px;
   }
 }
 
